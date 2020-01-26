@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AccoladeSampleApp01</string>
+    <string name="run_btn_label">接続実行</string>
 </resources>
